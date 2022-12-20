@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexiaNicolee
-- 👀 I’m interested in programing in differents languages
+- 👀 I’m interested programing in differents languages
 - 🌱 I’m currently learning about everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
