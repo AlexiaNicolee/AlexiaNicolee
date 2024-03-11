@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexiaNicolee
-- 👀 I’m interested programing in differents languages
-- 🌱 I’m currently learning about everything
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested programing in C/C++ ,python, dart and javascript
+- 🌱 I’m currently learning Dart/flutter
 - 📫 How to reach me ...
 
 <!---
