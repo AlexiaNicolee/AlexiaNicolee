@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexiaNicolee
-- 👀 I’m interested programing in C/C++ ,python, dart and javascript
+- 👀 I’m interested programing in C/C++ ,python and dart
 - 🌱 I’m currently learning Dart/flutter
 - 📫 How to reach me ...
 
